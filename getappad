@@ -1,0 +1,49 @@
+{
+  "data": {
+    "developer_name": "Yashenam Inc",
+    "is_ad_dialog": false,
+    "ad_dialog_time": "",
+    "is_rate_dialog": true,
+    "is_user_dialog": true,
+    "user_dialog_text": "Photo Video Maker with Song",
+    "user_dialog_url": "https://play.google.com/store/apps/details?id=photo.video.maker.music.slideshow",
+    "app_version_code": "1",
+    "user_dialog_update_text": "",
+    "google_id": "",
+    "bitcoin_url": "https://www.google.com/",
+    "predchamp_url": "",
+    "game_url": "",
+    "is_back_press_count": "3",
+    "is_normal_ad_count": "3",
+    "is_advertise_available": "1",
+    "app_url": "",
+    "app_node_url": "",
+    "testFlag": "0",
+    "is_login_enable": "0",
+    "is_splash_ad": "1",
+    "is_withdrawal": "0",
+    "is_play_store": "1",
+    "usr_dialog_btn": "",
+    "rate_text": "",
+    "user_dialog_img": "https://play-lh.googleusercontent.com/28AvGSG6xHLvLwMXdwc_pi4OBobqkGuuJrIa09wsyUzoNVF7JCMOvRvtisY7vbhs2yQ=w240-h480-rw"
+  },
+  "ad_priority": {
+    "priority": "G",
+    "F": {
+      "small_native_banner_ad": "",
+      "interstitial_ad": "rge",
+      "native_ad": "ertget",
+      "native_banner_ad": "ett"
+    },
+    "G": {
+      "interstitial_ad": "/6499/example/interstitial",
+      "native_ad": "/6499/example/native-video",
+      "native_banner_ad": "/6499/example/native",
+      "app_open_ad": "/6499/example/app-open"
+    }
+  },
+  "ResponseCode": 1,
+  "ResponseMsg": "App list retrived successfully",
+  "Result": "True",
+  "ServerTime": "IST"
+}
